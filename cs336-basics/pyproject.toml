@@ -1,0 +1,14 @@
+[project]
+name = "cs336-basics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26.4",
+    "pandas>=2.3.3",
+    "regex>=2025.11.3",
+    "torch==2.2.1",
+    "transformers>=4.57.1",
+    "wandb>=0.23.0",
+]

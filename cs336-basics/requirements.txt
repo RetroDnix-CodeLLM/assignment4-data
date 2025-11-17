@@ -1,4 +1,5 @@
 regex
-torch==2.2.1
+torch
+transformers
 numpy
 wandb
